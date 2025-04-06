@@ -68,10 +68,12 @@ Led by Arpitha Reddy B J, Pallavi K, Manu S N.
 Team of student innovators passionate about smart agriculture and sustainability.
 
 ## Installation (Coming Soon)
+
 This repo will include setup steps for hardware, software and app integration.
 
 ## License
 
+This project is licienced under the MIT License.
 
 
 ## Contributing
