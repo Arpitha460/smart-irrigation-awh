@@ -72,7 +72,7 @@ This repo will include setup steps for hardware, software and app integration.
 
 ## License
 
-This project is currently not licensed.
+LICENSE
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
