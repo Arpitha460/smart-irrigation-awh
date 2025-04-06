@@ -1,4 +1,4 @@
-## Smart-irrigation-awh
+## Smart-irrigation-AWH
 
 Smart Irrigation System using Atmospheric Water Harvesting and AI-Powered Automation
 
