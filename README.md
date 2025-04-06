@@ -1,4 +1,4 @@
-## smart-irrigation-awh
+## Smart-irrigation-awh
 
 Smart Irrigation System using Atmospheric Water Harvesting and AI-Powered Automation
 
@@ -72,7 +72,7 @@ This repo will include setup steps for hardware, software and app integration.
 
 ## License
 
-LICENSE
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
