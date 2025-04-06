@@ -49,7 +49,7 @@ Our system combines Atmospheric Water Harvesting (AWH) with AI-based automation 
 - *OpenCV* – Optional plant health image analysis  
 - *Hugging Face Transformers* – Conversational AI assistant (text/voice-based)
 
-### Cloud & Backend (Optional)
+### Cloud & Backend 
 - *InfluxDB* – Time-series data storage  
 - *Grafana* – Real-time dashboard and analytics  
 - *Firebase / AWS / Local Server* – Remote access and data storage  
@@ -67,38 +67,8 @@ EcoFlow
 Led by Arpitha Reddy B J, Pallavi K, Manu S N.
 Team of student innovators passionate about smart agriculture and sustainability.
 
-## How to Run the Project
-
-### 1. Hardware Setup
-- Connect ESP32/ESP8266 to sensors (soil moisture, temperature, etc.)
-- Install solar panel and battery connections
-- Set up relay modules to control sprinklers and vacuum chamber
-- Integrate water filtration and atmospheric water harvesting components
-
-### 2. Firmware Installation
-- Flash ESPHome or Arduino sketch onto ESP microcontrollers
-- Use [ESPHome Dashboard](https://esphome.io/) or Arduino IDE for deployment
-
-### 3. Backend and Dashboard
-- Set up InfluxDB and Grafana for real-time data visualization
-- (Optional) Deploy Node-RED for flow-based control of IoT devices
-- Configure OpenWeatherMap API for weather integration
-
-### 4. Mobile Dashboard (Optional)
-- Use Blynk app (open-source version) to remotely control and monitor sensors
-- Customize widgets for soil moisture, temperature, pump control, etc.
-
-### 5. AI & ML Integration
-- Deploy trained TensorFlow Lite/Scikit-learn models to ESP for on-device predictions
-- Use Node-RED or local server to integrate AI decisions into the control system
-- (Optional) Add Hugging Face assistant for voice/text control interface
-
-### 6. Testing & Deployment
-- Test sensor readings on dashboard
-- Verify automatic and manual irrigation triggering
-- Ensure water collection, purification, and control modules work properly
-
-> *Note:* All configurations and credentials should be stored in a secrets.yaml or .env file to maintain security.
+## Installation (Coming Soon)
+This repo will include setup steps for hardware, software and app integration.
 
 ## License
 
