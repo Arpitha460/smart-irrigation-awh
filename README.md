@@ -73,4 +73,8 @@ This repo will include setup steps for hardware, software and app integration.
 ## License
 
 This project is currently not licensed.
-This project is submitted for Pragati AI Hackathon 2025.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+For any queries, contact us at: [reddyarpitha2005@gmail.com]
