@@ -63,7 +63,7 @@ Our system combines Atmospheric Water Harvesting (AWH) with AI-based automation 
 
 ## Team
 
-EcoFlow  
+**EcoFlow**  
 Led by **Arpitha Reddy B J, Pallavi K, Manu S N**.
 Team of student innovators passionate about smart agriculture and sustainability.
 
