@@ -80,6 +80,6 @@ This project is licienced under the MIT License.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contact
-
+#####
+#####
 **📬**For any queries, contact us at:**[reddyarpitha2005@gmail.com]**
