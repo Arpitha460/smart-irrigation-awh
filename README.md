@@ -82,4 +82,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 #####
 #####
-**📬**For any queries, contact us at:**[reddyarpitha2005@gmail.com]**
+**📬**For any queries, contact us at:**[2212arpitha@gmail.com]**
